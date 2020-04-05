@@ -1,0 +1,7 @@
+[user]
+	name = Mahesh
+	email = themahesh56@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
